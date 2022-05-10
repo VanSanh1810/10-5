@@ -14,11 +14,6 @@ namespace ConsoleApp1
             Console.Write(a);
         }
 
-        //
-        public void A()
-        {
-            Console.WriteLine();
-            Console.ReadKey(); //Vansanh
-        }
+        
     }
 }
